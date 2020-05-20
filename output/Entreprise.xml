@@ -1,0 +1,21 @@
+
+<class name='Entreprise'>
+	<package name='P1'/>
+	<attributs nbr='2'>
+		<attribut name='name'>String</attrubut>
+		<attribut name='adresse'>String</attrubut>
+	</attributs>
+	<constructors nbr='1'>
+		<constructor name='P1.Entreprise' parametres='1' >
+			<parameter name='arg0'>String</parameter>
+		</constructor>
+	</constructors>
+	<methods nbr='2' >
+		<method name='printName' parametre='0' retour='void' >
+		</method>
+		<method name='empAdresse' parametre='1' retour='void' >
+			<parametre name='arg0' type='String' >class java.lang.String</parametre>
+		</method>
+
+	</methods>
+</class>

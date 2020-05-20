@@ -1,0 +1,10 @@
+<exceptions>
+	<exception>
+		<Date>Wed May 20 16:39:56 EDT 2020</Date>
+		<ClassPackage>URLClassLoader.java</ClassPackage>
+		<ClassName>java.net.URLClassLoader</ClassName>
+		<MethodName>findClass</MethodName>
+		<LigneNumber>471</LigneNumber>
+	</exception>
+
+</exceptions>

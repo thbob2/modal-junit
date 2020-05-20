@@ -1,0 +1,23 @@
+
+<class name='Calcule'>
+	<package name='P1'/>
+	<attributs nbr='0'>
+	</attributs>
+	<constructors nbr='1'>
+		<constructor name='P1.Calcule' parametres='0' >
+		</constructor>
+	</constructors>
+	<methods nbr='3' >
+		<method name='somme' parametre='2' retour='int' >
+			<parametre name='arg0' type='int' >int</parametre>
+			<parametre name='arg1' type='int' >int</parametre>
+		</method>
+		<method name='produit' parametre='2' retour='int' >
+			<parametre name='arg0' type='int' >int</parametre>
+			<parametre name='arg1' type='int' >int</parametre>
+		</method>
+		<method name='TPReflexion' parametre='0' retour='String' >
+		</method>
+
+	</methods>
+</class>

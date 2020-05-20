@@ -1,0 +1,29 @@
+
+<class name='Employee'>
+	<package name='P1'/>
+	<attributs nbr='4'>
+		<attribut name='name'>String</attrubut>
+		<attribut name='age'>int</attrubut>
+		<attribut name='designation'>String</attrubut>
+		<attribut name='salary'>double</attrubut>
+	</attributs>
+	<constructors nbr='1'>
+		<constructor name='P1.Employee' parametres='1' >
+			<parameter name='arg0'>String</parameter>
+		</constructor>
+	</constructors>
+	<methods nbr='4' >
+		<method name='empAge' parametre='1' retour='void' >
+			<parametre name='arg0' type='int' >int</parametre>
+		</method>
+		<method name='empDesignation' parametre='1' retour='void' >
+			<parametre name='arg0' type='String' >class java.lang.String</parametre>
+		</method>
+		<method name='empSalary' parametre='1' retour='void' >
+			<parametre name='arg0' type='double' >double</parametre>
+		</method>
+		<method name='printName' parametre='0' retour='void' >
+		</method>
+
+	</methods>
+</class>
